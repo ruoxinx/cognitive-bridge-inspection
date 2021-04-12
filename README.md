@@ -4,7 +4,7 @@ An investigation of individual cognitive reliability in bridge inspection
 
 ## **COncrete DEfect BRidge IMage (CODEBRIM) Dataset**
 
-The [CODEBRIM Dataset] (http://openaccess.thecvf.com/content_CVPR_2019/html/Mundt_Meta-Learning_Convolutional_Neural_Architectures_for_Multi-Target_Concrete_Defect_Classification_With_CVPR_2019_paper.html) consists of 1,590 high-resolution images (maximum resolution 6000×4000) from 30 different bridges with five types of bridge defects, including crack, spallation, exposed reinforcement bar, efflorescence, corrosion (stains).
+The [CODEBRIM Dataset](http://openaccess.thecvf.com/content_CVPR_2019/html/Mundt_Meta-Learning_Convolutional_Neural_Architectures_for_Multi-Target_Concrete_Defect_Classification_With_CVPR_2019_paper.html) consists of 1,590 high-resolution images (maximum resolution 6000×4000) from 30 different bridges with five types of bridge defects, including crack, spallation, exposed reinforcement bar, efflorescence, corrosion (stains).
 
 This study implemented the YOLO-v4 model (Bochkovskiy et al. 2020) to detect bridge defects for its efficiency and high detection accuracy. The CODEBRIM Dataset is randomly split into a training subset with 80% images and a testing subset with 20% images. The mAP results are shown as follows:
 

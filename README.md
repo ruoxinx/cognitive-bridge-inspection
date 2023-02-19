@@ -2,7 +2,7 @@
 
 This paper presents an automated personalized assessment and calibration system thatmodels the inspector’s performance individually by analyzing their cognitive records oncompleted tasks over a certain period.
 
-# *Computer Simulated Inspection System.*
+# **Computer Simulated Inspection System**
 
 - A web-based annotation platform based on LabelBox (Labelbox2021) that can capture interaction features from users’ log files
 - A behavioral trackingmodule that utilizes the Tobii Pro Glasses 3 eye tracker to record observations and cognitivebehaviors.
@@ -11,7 +11,7 @@ This paper presents an automated personalized assessment and calibration system 
 
 
 
-# eye tracking behavior analysis
+# **Eye tracking behavior analysis**
 
 ![](./Media/eye-behaviors.png)
 
